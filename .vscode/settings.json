@@ -9,4 +9,5 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
+    "appService.defaultWebAppToDeploy": "/subscriptions/16fa7d69-e0e3-47f7-b8f9-69f6faec50b1/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/voavideoinsights",
 }
